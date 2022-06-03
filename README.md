@@ -35,7 +35,7 @@ I managed to complete this challenge in 3.5 hours.
 
 ### What I learned
 
-I find hard positioning divs inside other ones. I think I still need more practice doing it. Btw. wrapper is really helpful. 
+I find hard positioning divs inside other ones. I think I still need more practice doing it.
 
 ## Author
 
