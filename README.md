@@ -24,7 +24,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## My process
 
-I managed to complete this challenge in 3.5 hours.
+I managed to complete this challenge in 5 hours.
 
 ### Built with
 
@@ -35,7 +35,7 @@ I managed to complete this challenge in 3.5 hours.
 
 ### What I learned
 
-I find hard positioning divs inside other ones. I think I still need more practice doing it.
+Hardest part was placing svg eye icon inside image div and make proper bg-color with hover. It took me 2 hours to get it. I find hard positioning divs inside other ones. I think I still need more practice doing it.
 
 ## Author
 
